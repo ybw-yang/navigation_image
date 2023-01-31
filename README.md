@@ -54,4 +54,4 @@ Using GICP and ICP to achieve high-precision relocation
 4.3 AB点实时运行效果：链接: https://pan.baidu.com/s/1yIq3ZVcghNdBDhKgzSNzgg?pwd=s593 提取码: s593
 
 4.4 巡航模式：链接: https://pan.baidu.com/s/1NDFcJf2Nm5mz1oq8fHdkIA?pwd=av9n 提取码: av9n
-
+![image](https://github.com/ybw-yang/navigation_image/blob/main/航点模式行为树.png)
