@@ -56,6 +56,9 @@ The project is divided into three major sections：construction, positioning and
 ### 2.3.3 Large scene global passable map
 ![image](https://github.com/ybw-yang/navigation_image/blob/main/traversability_and_elevation_map/大场景全局可通行地图.png)
 
+### 2.3.4 Real-time navigable map
+![image](https://github.com/ybw-yang/navigation_image/blob/main/traversability_and_elevation_map/实时机体可通行地图.png)
+![image](https://github.com/ybw-yang/navigation_image/blob/main/traversability_and_elevation_map/实时足端可通行地图.png)
 
 # 3 导航效果展示
 3.1 室外巡检实景：链接: https://pan.baidu.com/s/12HTKoxg2tK3W-JRJOac3xQ 提取码: 676k
