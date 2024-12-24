@@ -69,3 +69,7 @@ The project is divided into three major sections：construction, positioning and
 
 3.4 巡航模式：链接: https://pan.baidu.com/s/1NDFcJf2Nm5mz1oq8fHdkIA?pwd=av9n 提取码: av9n
 ![image](https://github.com/ybw-yang/navigation_image/blob/main/航点模式行为树.png)
+
+3.5 DRL-based navigation
+![image](https://github.com/ybw-yang/navigation_image/blob/main/DRL_based_navigation.gif)
+
